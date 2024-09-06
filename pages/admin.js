@@ -37,7 +37,7 @@ const admin = () => {
     LOAD_DATA();
   }, [address]);
   return (
-    <div classname="body-backgroundColor">
+    <div className="body-backgroundColor">
       <Header page={"admin"} />
       <AdminHead />
       <Admin
