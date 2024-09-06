@@ -91,4 +91,4 @@ export default function App({ Component, pageProps }) {
       <script src="js/main.js"></script>
     <>
   );
-}
+};
