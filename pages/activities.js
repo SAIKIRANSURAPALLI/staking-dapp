@@ -26,7 +26,7 @@ const activities = () => {
     LOAD_DATA();
   }, [address]);
   return (
-    <div classname="body-backgroundColor">
+    <div className="body-backgroundColor">
       <Header page={"activity"} />
       <div className="new-margin"></div>
       <Statistics poolDetails={poolDetails} />
