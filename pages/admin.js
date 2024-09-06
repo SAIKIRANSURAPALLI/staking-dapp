@@ -37,7 +37,7 @@ const admin = () => {
     LOAD_DATA();
   }, [address]);
   return (
-    <>
+    <div classname="body-backgroundColor">
       <Header page={"admin"} />
       <AdminHead />
       <Admin
@@ -58,7 +58,7 @@ const admin = () => {
       <ICOSale setLoader={setLoader} />
       {checkAdmin && <Auth />}
       {loader && <Loader />}
-    </>
+    </div>
   );
 };
 
