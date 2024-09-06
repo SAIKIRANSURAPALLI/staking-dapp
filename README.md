@@ -8,19 +8,6 @@ By the end of this video, you'll have a fully functional DApp capable of staking
 
 ## Project Overview
 
-![alt text](https://www.daulathussain.com/wp-content/uploads/2024/08/Create-a-Token-Staking-DApp-Earn-Rewards-on-Any-Blockchain.jpg)
-
-Kindly follow the following Instructions to run the project in your system and install the necessary requirements
-
-- [Final Source Code](https://www.theblockchaincoders.com/sourceCode/create-a-token-staking-dapp-and-earn-rewards-on-any-blockchain)
-
-#### Setup Video
-
-- [Final Code Setup video](https://youtu.be/VaIf4wkzl4c?si=xNvjLuauIxmq87IP)
-
-```
-  WATCH: Setup & Demo Of Project
-```
 
 #### Install Vs Code Editor
 
@@ -35,53 +22,6 @@ Kindly follow the following Instructions to run the project in your system and i
   URL: https://nodejs.org/en/download
   NodeJs: v18.17.1 || LATEST VERSION
   NPM: 8.19.2 || LATEST VERSION
-```
-
-#### ALL SOURCE CODE
-
-```
-PROJECT CODE: https://www.theblockchaincoders.com/sourceCode/create-a-token-staking-dapp-and-earn-rewards-on-any-blockchain
- URL: https://www.theblockchaincoders.com/SourceCode
-  GET: Project Starter File Download
-```
-
-All you need to follow the complete project and follow the instructions which are explained in the tutorial by Daulat
-
-## Final Code Instruction
-
-If you download the final source code then you can follow the following instructions to run the Dapp successfully
-
-#### What You Will Get
-
-Once you download the final source code, you will get a ZIP file, then you will have 2 FOLDERS & README file which contain all the instructions to run the project and set video
-
-#### Setup Video
-
-```
-  WATCH: Setup & Demo Of Project
-```
-
-#### ALL SOURCE CODE
-
-```
-  STARTER_FILE: https://github.com/daulathussain/Health-Care-Dapp-Starter-File
- URL: https://www.theblockchaincoders.com/SourceCode
-  GET: Project Starter File Download
-```
-
-#### Install Vs Code Editor
-
-```
-  URL: https://code.visualstudio.com/download
-  GET: VsCode Editor
-```
-
-#### NodeJs & NPM Version
-
-```
-  URL: https://nodejs.org/en/download
-  NodeJs: v18.17.1
-  NPM: 8.19.2
 ```
 
 #### RPU URL PROVIDER
@@ -115,18 +55,6 @@ We are using RemixID for deploying the contract and generation of the ABI in the
   OPEN: RemixID
   URL: https://remix-project.org
 ```
-
-## Important Links
-
-- [Get Pro Blockchain Developer Course](https://www.theblockchaincoders.com/pro-nft-marketplace)
-- [Support Creator](https://bit.ly/Support-Creator)
-- [All Projects Source Code](https://www.theblockchaincoders.com/SourceCode)
-
-## Authors
-
-- [@theblockchaincoders.com](https://www.theblockchaincoders.com/)
-- [@consultancy](https://www.theblockchaincoders.com/consultancy)
-- [@youtube](https://www.youtube.com/@daulathussain)
 
 #### PACKAGES
 
