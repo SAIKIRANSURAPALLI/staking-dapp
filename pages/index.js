@@ -47,7 +47,7 @@ const index = () => {
     LOAD_DATA();
   }, [address]);
   return (
-    <div classname="body-backgroundColor">
+    <div className="body-backgroundColor">
       <Header />
       <HeroSection
         poolDetails={poolDetails}
