@@ -76,7 +76,7 @@ export default function App({ Component, pageProps }) {
     },
   });
   return (
-    <>
+    <div classname="body-backgroundColor">
       <WagmiConfig client={wagmiClient}>
         <RainbowKitProvider chains={chains} theme={myTheme}>
           <Component {...pageProps} />
@@ -89,6 +89,6 @@ export default function App({ Component, pageProps }) {
       <script src="js/three.min.js"></script>
       <script src="js/vanta.fog.min.js"></script>
       <script src="js/main.js"></script>
-    </>
+    </div>
   );
 }
