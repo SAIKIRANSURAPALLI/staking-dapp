@@ -47,7 +47,7 @@ const index = () => {
     LOAD_DATA();
   }, [address]);
   return (
-    <>
+    <div classname="body-backgroundColor">
       <Header />
       <HeroSection
         poolDetails={poolDetails}
@@ -88,7 +88,7 @@ const index = () => {
       <ICOSale setLoader={setLoader} />
       {contactUs && <Contact setContactUs={setContactUs} />}
       {loader && <Loader />}
-    </>
+    </div>
   );
 };
 
