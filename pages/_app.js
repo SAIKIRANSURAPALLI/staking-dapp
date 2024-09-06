@@ -89,6 +89,6 @@ export default function App({ Component, pageProps }) {
       <script src="js/three.min.js"></script>
       <script src="js/vanta.fog.min.js"></script>
       <script src="js/main.js"></script>
-    <>
+    </>
   );
-};
+}
