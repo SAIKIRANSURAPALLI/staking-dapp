@@ -25,7 +25,7 @@ const Header = ({ page }) => {
   ];
   return (
     <header className="header" style={{
-      backgroundColor:#17142a,
+      backgroundColor:"#17142a",
     }}>
       <div className="container">
         <div className="row">
